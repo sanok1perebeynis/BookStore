@@ -1,6 +1,6 @@
 /*
  * Testing methods using junit.
- * Verify if the books create and delete
+ * Verify if the books can create and delete
  */
 
 package org.sanok.bookstore.model;
