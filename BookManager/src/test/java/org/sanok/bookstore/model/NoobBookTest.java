@@ -1,6 +1,6 @@
 /*
  * Testing methods using junit.
- * 
+ * Verify if the books create and delete
  */
 
 package org.sanok.bookstore.model;
@@ -64,6 +64,7 @@ public class NoobBookTest {
 		assertEquals(savedBook.getPrice(), testBook.getPrice());
 		
 	}
+	
 	
 	
 	@Test
