@@ -1,5 +1,5 @@
 /*
- * Testing methods from Service using junit and mockito.
+ * Testing methods from Service layer using junit and mockito.
  * 
  */
 
